@@ -1,5 +1,8 @@
 ## Baiyueguang Method
 
+An Information Network Translation Framework (INTF)
+for understanding abstract concepts.
+
 A cognitive translation framework for learning abstract concepts through familiar information structures.
 
 ## Author: SarkAzia
