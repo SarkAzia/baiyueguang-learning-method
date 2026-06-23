@@ -4,11 +4,13 @@ A cognitive translation framework for learning abstract concepts through familia
 
 ## Author: SarkAzia
 
-## Created: June 2026
+## Project History
 
-## First Public Release: June 23, 2026
+Created: June 2026
 
-## Current Version: v1.0
+First Public Repository Release: June 23, 2026
+
+Current Version: v1.0
 
 ## Overview
 
